@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Alpine Blue-sow-thisle (Lactuca alpina)</title>
+   	<link>../..</link>
+        <generator>jAlbum 19.2</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://karelia-trip.cc/Flora/Alpine%20Blue-sow-thisle%20%28Lactuca%20alpina%29/</jalbum:absolutePath>
+        <item>
+            <title>DSC04215</title>
+            <link>http://karelia-trip.cc/Flora/Alpine%20Blue-sow-thisle%20%28Lactuca%20alpina%29/slides/DSC04215.JPG</link>
+            <pubDate>Sat, 11 Jan 2020 22:00:29 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://karelia-trip.cc/Flora/Alpine%20Blue-sow-thisle%20%28Lactuca%20alpina%29/thumbs/DSC04215.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="http://karelia-trip.cc/Flora/Alpine%20Blue-sow-thisle%20%28Lactuca%20alpina%29/slides/DSC04215.JPG" width="1680" height="1260"/>
+            <jalbum:exif originalDate="Tue, 24 Jul 2018 13:15:58 +0300" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC04215.JPG</guid>
+        </item>
+        <item>
+            <title>DSC04216</title>
+            <link>http://karelia-trip.cc/Flora/Alpine%20Blue-sow-thisle%20%28Lactuca%20alpina%29/slides/DSC04216.JPG</link>
+            <pubDate>Sat, 11 Jan 2020 22:00:29 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://karelia-trip.cc/Flora/Alpine%20Blue-sow-thisle%20%28Lactuca%20alpina%29/thumbs/DSC04216.JPG" width="270" height="360"/>
+            <media:content type="image/jpeg" url="http://karelia-trip.cc/Flora/Alpine%20Blue-sow-thisle%20%28Lactuca%20alpina%29/slides/DSC04216.JPG" width="1260" height="1680"/>
+            <jalbum:exif originalDate="Tue, 24 Jul 2018 13:16:07 +0300" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC04216.JPG</guid>
+        </item>
+        <item>
+            <title>DSC04217</title>
+            <link>http://karelia-trip.cc/Flora/Alpine%20Blue-sow-thisle%20%28Lactuca%20alpina%29/slides/DSC04217.JPG</link>
+            <pubDate>Sat, 11 Jan 2020 22:00:29 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://karelia-trip.cc/Flora/Alpine%20Blue-sow-thisle%20%28Lactuca%20alpina%29/thumbs/DSC04217.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="http://karelia-trip.cc/Flora/Alpine%20Blue-sow-thisle%20%28Lactuca%20alpina%29/slides/DSC04217.JPG" width="1680" height="1260"/>
+            <jalbum:exif originalDate="Tue, 24 Jul 2018 13:16:07 +0300" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC04217.JPG</guid>
+        </item>
+        <item>
+            <title>DSC04218</title>
+            <link>http://karelia-trip.cc/Flora/Alpine%20Blue-sow-thisle%20%28Lactuca%20alpina%29/slides/DSC04218.JPG</link>
+            <pubDate>Sat, 11 Jan 2020 22:00:29 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://karelia-trip.cc/Flora/Alpine%20Blue-sow-thisle%20%28Lactuca%20alpina%29/thumbs/DSC04218.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="http://karelia-trip.cc/Flora/Alpine%20Blue-sow-thisle%20%28Lactuca%20alpina%29/slides/DSC04218.JPG" width="1680" height="1260"/>
+            <jalbum:exif originalDate="Tue, 24 Jul 2018 13:16:29 +0300" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC04218.JPG</guid>
+        </item>
+    </channel>
+</rss>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Dwarf Honeysuckle (Lonicera xylosteum)</title>
+   	<link>../..</link>
+        <generator>jAlbum 19.2</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://karelia-trip.cc/Flora/Dwarf%20Honeysuckle%20%28Lonicera%20xylosteum%29/</jalbum:absolutePath>
+        <item>
+            <title>DSC04301</title>
+            <link>http://karelia-trip.cc/Flora/Dwarf%20Honeysuckle%20%28Lonicera%20xylosteum%29/slides/DSC04301.JPG</link>
+            <pubDate>Sat, 11 Jan 2020 22:01:24 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://karelia-trip.cc/Flora/Dwarf%20Honeysuckle%20%28Lonicera%20xylosteum%29/thumbs/DSC04301.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="http://karelia-trip.cc/Flora/Dwarf%20Honeysuckle%20%28Lonicera%20xylosteum%29/slides/DSC04301.JPG" width="1680" height="1260"/>
+            <jalbum:exif originalDate="Wed, 25 Jul 2018 11:42:26 +0300" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC04301.JPG</guid>
+        </item>
+        <item>
+            <title>DSC04302</title>
+            <link>http://karelia-trip.cc/Flora/Dwarf%20Honeysuckle%20%28Lonicera%20xylosteum%29/slides/DSC04302.JPG</link>
+            <pubDate>Sat, 11 Jan 2020 22:01:24 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://karelia-trip.cc/Flora/Dwarf%20Honeysuckle%20%28Lonicera%20xylosteum%29/thumbs/DSC04302.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="http://karelia-trip.cc/Flora/Dwarf%20Honeysuckle%20%28Lonicera%20xylosteum%29/slides/DSC04302.JPG" width="1680" height="1260"/>
+            <jalbum:exif originalDate="Wed, 25 Jul 2018 11:42:40 +0300" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC04302.JPG</guid>
+        </item>
+        <item>
+            <title>DSC04303</title>
+            <link>http://karelia-trip.cc/Flora/Dwarf%20Honeysuckle%20%28Lonicera%20xylosteum%29/slides/DSC04303.JPG</link>
+            <pubDate>Sat, 11 Jan 2020 22:01:24 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://karelia-trip.cc/Flora/Dwarf%20Honeysuckle%20%28Lonicera%20xylosteum%29/thumbs/DSC04303.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="http://karelia-trip.cc/Flora/Dwarf%20Honeysuckle%20%28Lonicera%20xylosteum%29/slides/DSC04303.JPG" width="1680" height="1260"/>
+            <jalbum:exif originalDate="Wed, 25 Jul 2018 11:42:46 +0300" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC04303.JPG</guid>
+        </item>
+        <item>
+            <title>DSC04304</title>
+            <link>http://karelia-trip.cc/Flora/Dwarf%20Honeysuckle%20%28Lonicera%20xylosteum%29/slides/DSC04304.JPG</link>
+            <pubDate>Sat, 11 Jan 2020 22:01:24 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://karelia-trip.cc/Flora/Dwarf%20Honeysuckle%20%28Lonicera%20xylosteum%29/thumbs/DSC04304.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="http://karelia-trip.cc/Flora/Dwarf%20Honeysuckle%20%28Lonicera%20xylosteum%29/slides/DSC04304.JPG" width="1680" height="1260"/>
+            <jalbum:exif originalDate="Wed, 25 Jul 2018 11:42:53 +0300" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC04304.JPG</guid>
+        </item>
+    </channel>
+</rss>
