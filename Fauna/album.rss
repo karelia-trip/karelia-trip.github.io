@@ -5,66 +5,66 @@
     <channel>
         <title>Fauna</title>
    	<link>..</link>
-        <generator>jAlbum 19.2</generator>
+        <generator>jAlbum 20.2</generator>
    		<description></description>
-        <jalbum:absolutePath>http://karelia-trip.cc/Fauna/</jalbum:absolutePath>
-    	<jalbum:link rel="sub" href="http://karelia-trip.cc/Fauna/Barn%20swallow%20%28Hirundo%20rustica%29/album.rss" title="Barn swallow (Hirundo rustica)" thumbnail="http://karelia-trip.cc/Fauna/Barn%20swallow%20%28Hirundo%20rustica%29/thumbs/DSC04360.JPG" thumbnailWidth="480" thumbnailHeight="360" />
-    	<jalbum:link rel="sub" href="http://karelia-trip.cc/Fauna/Black-headed%20gull%20%28Chroicocephalus%20ridibundus%29/album.rss" title="Black-headed gull (Chroicocephalus ridibundus)" thumbnail="http://karelia-trip.cc/Fauna/Black-headed%20gull%20%28Chroicocephalus%20ridibundus%29/thumbs/DSC04139.JPG" thumbnailWidth="480" thumbnailHeight="360" />
-    	<jalbum:link rel="sub" href="http://karelia-trip.cc/Fauna/Common%20gull%20%28Larus%20canus%29/album.rss" title="Common gull (Larus canus)" thumbnail="http://karelia-trip.cc/Fauna/Common%20gull%20%28Larus%20canus%29/thumbs/DSC04276.JPG" thumbnailWidth="480" thumbnailHeight="360" />
-    	<jalbum:link rel="sub" href="http://karelia-trip.cc/Fauna/Common%20tern%20%28Sterna%20hirundo%29/album.rss" title="Common tern (Sterna hirundo)" thumbnail="http://karelia-trip.cc/Fauna/Common%20tern%20%28Sterna%20hirundo%29/thumbs/DSC04226.JPG" thumbnailWidth="480" thumbnailHeight="360" />
-    	<jalbum:link rel="sub" href="http://karelia-trip.cc/Fauna/Western%20jackdaw%20%28Coloeus%20monedula%29/album.rss" title="Western jackdaw (Coloeus monedula)" thumbnail="http://karelia-trip.cc/Fauna/Western%20jackdaw%20%28Coloeus%20monedula%29/thumbs/DSC04273.JPG" thumbnailWidth="270" thumbnailHeight="360" />
+        <jalbum:absolutePath>https:/karelia-trip.cc/Fauna/</jalbum:absolutePath>
+    	<jalbum:link rel="sub" href="https:/karelia-trip.cc/Fauna/Barn%20swallow%20%28Hirundo%20rustica%29/album.rss" title="Barn swallow (Hirundo rustica)" thumbnail="https:/karelia-trip.cc/Fauna/Barn%20swallow%20%28Hirundo%20rustica%29/thumbs/DSC04360.JPG" thumbnailWidth="480" thumbnailHeight="360" />
+    	<jalbum:link rel="sub" href="https:/karelia-trip.cc/Fauna/Black-headed%20gull%20%28Chroicocephalus%20ridibundus%29/album.rss" title="Black-headed gull (Chroicocephalus ridibundus)" thumbnail="https:/karelia-trip.cc/Fauna/Black-headed%20gull%20%28Chroicocephalus%20ridibundus%29/thumbs/DSC04139.JPG" thumbnailWidth="480" thumbnailHeight="360" />
+    	<jalbum:link rel="sub" href="https:/karelia-trip.cc/Fauna/Common%20gull%20%28Larus%20canus%29/album.rss" title="Common gull (Larus canus)" thumbnail="https:/karelia-trip.cc/Fauna/Common%20gull%20%28Larus%20canus%29/thumbs/DSC04276.JPG" thumbnailWidth="480" thumbnailHeight="360" />
+    	<jalbum:link rel="sub" href="https:/karelia-trip.cc/Fauna/Common%20tern%20%28Sterna%20hirundo%29/album.rss" title="Common tern (Sterna hirundo)" thumbnail="https:/karelia-trip.cc/Fauna/Common%20tern%20%28Sterna%20hirundo%29/thumbs/DSC04226.JPG" thumbnailWidth="480" thumbnailHeight="360" />
+    	<jalbum:link rel="sub" href="https:/karelia-trip.cc/Fauna/Western%20jackdaw%20%28Coloeus%20monedula%29/album.rss" title="Western jackdaw (Coloeus monedula)" thumbnail="https:/karelia-trip.cc/Fauna/Western%20jackdaw%20%28Coloeus%20monedula%29/thumbs/DSC04273.JPG" thumbnailWidth="270" thumbnailHeight="360" />
         <item>
             <title>DSC04280</title>
-            <link>http://karelia-trip.cc/Fauna/slides/DSC04280.JPG</link>
-            <pubDate>Sat, 11 Jan 2020 22:00:26 +0200</pubDate>
+            <link>https:/karelia-trip.cc/Fauna/slides/DSC04280.JPG</link>
+            <pubDate>Sat, 11 Jan 2020 21:56:07 +0200</pubDate>
             <description>                               </description>
             <media:description type="html">                               </media:description>
-            <media:thumbnail url="http://karelia-trip.cc/Fauna/thumbs/DSC04280.JPG" width="480" height="360"/>
-            <media:content type="image/jpeg" url="http://karelia-trip.cc/Fauna/slides/DSC04280.JPG" width="1680" height="1260"/>
+            <media:thumbnail url="https:/karelia-trip.cc/Fauna/thumbs/DSC04280.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="https:/karelia-trip.cc/Fauna/slides/DSC04280.JPG" width="1680" height="1260"/>
             <jalbum:exif originalDate="Tue, 24 Jul 2018 15:00:12 +0300" cameraMake="SONY" cameraModel="DSC-HX90"/>
             <guid isPermaLink="false">slides/DSC04280.JPG</guid>
         </item>
         <item>
             <title>DSC04281</title>
-            <link>http://karelia-trip.cc/Fauna/slides/DSC04281.JPG</link>
-            <pubDate>Sat, 11 Jan 2020 22:00:26 +0200</pubDate>
+            <link>https:/karelia-trip.cc/Fauna/slides/DSC04281.JPG</link>
+            <pubDate>Sat, 11 Jan 2020 21:56:07 +0200</pubDate>
             <description>                               </description>
             <media:description type="html">                               </media:description>
-            <media:thumbnail url="http://karelia-trip.cc/Fauna/thumbs/DSC04281.JPG" width="480" height="360"/>
-            <media:content type="image/jpeg" url="http://karelia-trip.cc/Fauna/slides/DSC04281.JPG" width="1680" height="1260"/>
+            <media:thumbnail url="https:/karelia-trip.cc/Fauna/thumbs/DSC04281.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="https:/karelia-trip.cc/Fauna/slides/DSC04281.JPG" width="1680" height="1260"/>
             <jalbum:exif originalDate="Tue, 24 Jul 2018 15:00:18 +0300" cameraMake="SONY" cameraModel="DSC-HX90"/>
             <guid isPermaLink="false">slides/DSC04281.JPG</guid>
         </item>
         <item>
             <title>DSC04282</title>
-            <link>http://karelia-trip.cc/Fauna/slides/DSC04282.JPG</link>
-            <pubDate>Sat, 11 Jan 2020 22:00:26 +0200</pubDate>
+            <link>https:/karelia-trip.cc/Fauna/slides/DSC04282.JPG</link>
+            <pubDate>Sat, 11 Jan 2020 21:56:07 +0200</pubDate>
             <description>                               </description>
             <media:description type="html">                               </media:description>
-            <media:thumbnail url="http://karelia-trip.cc/Fauna/thumbs/DSC04282.JPG" width="480" height="360"/>
-            <media:content type="image/jpeg" url="http://karelia-trip.cc/Fauna/slides/DSC04282.JPG" width="1680" height="1260"/>
+            <media:thumbnail url="https:/karelia-trip.cc/Fauna/thumbs/DSC04282.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="https:/karelia-trip.cc/Fauna/slides/DSC04282.JPG" width="1680" height="1260"/>
             <jalbum:exif originalDate="Tue, 24 Jul 2018 15:00:22 +0300" cameraMake="SONY" cameraModel="DSC-HX90"/>
             <guid isPermaLink="false">slides/DSC04282.JPG</guid>
         </item>
         <item>
             <title>DSC04320</title>
-            <link>http://karelia-trip.cc/Fauna/slides/DSC04320.JPG</link>
-            <pubDate>Sat, 11 Jan 2020 22:00:26 +0200</pubDate>
+            <link>https:/karelia-trip.cc/Fauna/slides/DSC04320.JPG</link>
+            <pubDate>Sat, 11 Jan 2020 21:56:07 +0200</pubDate>
             <description>                               </description>
             <media:description type="html">                               </media:description>
-            <media:thumbnail url="http://karelia-trip.cc/Fauna/thumbs/DSC04320.JPG" width="480" height="360"/>
-            <media:content type="image/jpeg" url="http://karelia-trip.cc/Fauna/slides/DSC04320.JPG" width="1680" height="1260"/>
+            <media:thumbnail url="https:/karelia-trip.cc/Fauna/thumbs/DSC04320.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="https:/karelia-trip.cc/Fauna/slides/DSC04320.JPG" width="1680" height="1260"/>
             <jalbum:exif originalDate="Wed, 25 Jul 2018 13:12:34 +0300" cameraMake="SONY" cameraModel="DSC-HX90"/>
             <guid isPermaLink="false">slides/DSC04320.JPG</guid>
         </item>
         <item>
             <title>DSC04321</title>
-            <link>http://karelia-trip.cc/Fauna/slides/DSC04321.JPG</link>
-            <pubDate>Sat, 11 Jan 2020 22:00:26 +0200</pubDate>
+            <link>https:/karelia-trip.cc/Fauna/slides/DSC04321.JPG</link>
+            <pubDate>Sat, 11 Jan 2020 21:56:07 +0200</pubDate>
             <description>                               </description>
             <media:description type="html">                               </media:description>
-            <media:thumbnail url="http://karelia-trip.cc/Fauna/thumbs/DSC04321.JPG" width="480" height="360"/>
-            <media:content type="image/jpeg" url="http://karelia-trip.cc/Fauna/slides/DSC04321.JPG" width="1680" height="1260"/>
+            <media:thumbnail url="https:/karelia-trip.cc/Fauna/thumbs/DSC04321.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="https:/karelia-trip.cc/Fauna/slides/DSC04321.JPG" width="1680" height="1260"/>
             <jalbum:exif originalDate="Wed, 25 Jul 2018 13:12:43 +0300" cameraMake="SONY" cameraModel="DSC-HX90"/>
             <guid isPermaLink="false">slides/DSC04321.JPG</guid>
         </item>

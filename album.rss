@@ -3,73 +3,75 @@
      xmlns:media="http://search.yahoo.com/mrss/"
      xmlns:jalbum="http://jalbum.net/jalbumrss">
     <channel>
-        <title>Karelia 2018</title>
+        <title>Karelia 2018: Boris Melikian Expeditions Collection.</title>
    	<link>.</link>
-        <generator>jAlbum 19.2</generator>
-   		<description>Karelia, Russian federation. Summer 2018.</description>
-        <jalbum:absolutePath>http://karelia-trip.cc/</jalbum:absolutePath>
-    	<jalbum:link rel="sub" href="http://karelia-trip.cc/Fauna/album.rss" title="Fauna" thumbnail="http://karelia-trip.cc/Fauna/Barn%20swallow%20%28Hirundo%20rustica%29/thumbs/DSC04360.JPG" thumbnailWidth="480" thumbnailHeight="360" />
-    	<jalbum:link rel="sub" href="http://karelia-trip.cc/Flora/album.rss" title="Flora" thumbnail="http://karelia-trip.cc/Flora/Purple%20loosestrife%20%28Lythrum%20salicaria%29/thumbs/DSC04211.JPG" thumbnailWidth="270" thumbnailHeight="360" />
-    	<jalbum:link rel="sub" href="http://karelia-trip.cc/Girvas/album.rss" title="Girvas" thumbnail="http://karelia-trip.cc/Girvas/thumbs/DSC04318.JPG" thumbnailWidth="480" thumbnailHeight="360" />
-    	<jalbum:link rel="sub" href="http://karelia-trip.cc/Kivach/album.rss" title="Kivach" thumbnail="http://karelia-trip.cc/Kivach/thumbs/DSC04350.JPG" thumbnailWidth="270" thumbnailHeight="360" />
-    	<jalbum:link rel="sub" href="http://karelia-trip.cc/Kizi/album.rss" title="Kizi" thumbnail="http://karelia-trip.cc/Kizi/thumbs/DSC04260.JPG" thumbnailWidth="270" thumbnailHeight="360" />
-    	<jalbum:link rel="sub" href="http://karelia-trip.cc/Moon/album.rss" title="Moon" thumbnail="http://karelia-trip.cc/Moon/thumbs/DSC04554.JPG" thumbnailWidth="480" thumbnailHeight="360" />
-    	<jalbum:link rel="sub" href="http://karelia-trip.cc/Museum/album.rss" title="Museum" thumbnail="http://karelia-trip.cc/Museum/thumbs/DSC04388.JPG" thumbnailWidth="480" thumbnailHeight="360" />
-    	<jalbum:link rel="sub" href="http://karelia-trip.cc/Oreshek/album.rss" title="Oreshek" thumbnail="http://karelia-trip.cc/Oreshek/thumbs/DSC04144.JPG" thumbnailWidth="480" thumbnailHeight="360" />
-    	<jalbum:link rel="sub" href="http://karelia-trip.cc/Ruskeala/album.rss" title="Ruskeala" thumbnail="http://karelia-trip.cc/Ruskeala/thumbs/DSC04450.JPG" thumbnailWidth="480" thumbnailHeight="360" />
-    	<jalbum:link rel="sub" href="http://karelia-trip.cc/Ruskeala%20gap%20caves/album.rss" title="Ruskeala gap caves" thumbnail="http://karelia-trip.cc/Ruskeala%20gap%20caves/thumbs/DSC04480.JPG" thumbnailWidth="270" thumbnailHeight="360" />
+        <generator>jAlbum 20.2</generator>
+   		<description>Karelia, Russian federation. Summer 2018.
+
+Fauna, Flora, Girvas, Kivach, Kizi, Moon, Museum, Oreshek, Ruskeala, Ruskeala gap caves.</description>
+        <jalbum:absolutePath>https:/karelia-trip.cc/</jalbum:absolutePath>
+    	<jalbum:link rel="sub" href="https:/karelia-trip.cc/Fauna/album.rss" title="Fauna" thumbnail="https:/karelia-trip.cc/Fauna/Barn%20swallow%20%28Hirundo%20rustica%29/thumbs/DSC04360.JPG" thumbnailWidth="480" thumbnailHeight="360" />
+    	<jalbum:link rel="sub" href="https:/karelia-trip.cc/Flora/album.rss" title="Flora" thumbnail="https:/karelia-trip.cc/Flora/Purple%20loosestrife%20%28Lythrum%20salicaria%29/thumbs/DSC04211.JPG" thumbnailWidth="270" thumbnailHeight="360" />
+    	<jalbum:link rel="sub" href="https:/karelia-trip.cc/Girvas/album.rss" title="Girvas" thumbnail="https:/karelia-trip.cc/Girvas/thumbs/DSC04318.JPG" thumbnailWidth="480" thumbnailHeight="360" />
+    	<jalbum:link rel="sub" href="https:/karelia-trip.cc/Kivach/album.rss" title="Kivach" thumbnail="https:/karelia-trip.cc/Kivach/thumbs/DSC04350.JPG" thumbnailWidth="270" thumbnailHeight="360" />
+    	<jalbum:link rel="sub" href="https:/karelia-trip.cc/Kizi/album.rss" title="Kizi" thumbnail="https:/karelia-trip.cc/Kizi/thumbs/DSC04260.JPG" thumbnailWidth="270" thumbnailHeight="360" />
+    	<jalbum:link rel="sub" href="https:/karelia-trip.cc/Moon/album.rss" title="Moon" thumbnail="https:/karelia-trip.cc/Moon/thumbs/DSC04554.JPG" thumbnailWidth="480" thumbnailHeight="360" />
+    	<jalbum:link rel="sub" href="https:/karelia-trip.cc/Museum/album.rss" title="Museum" thumbnail="https:/karelia-trip.cc/Museum/thumbs/DSC04388.JPG" thumbnailWidth="480" thumbnailHeight="360" />
+    	<jalbum:link rel="sub" href="https:/karelia-trip.cc/Oreshek/album.rss" title="Oreshek" thumbnail="https:/karelia-trip.cc/Oreshek/thumbs/DSC04144.JPG" thumbnailWidth="480" thumbnailHeight="360" />
+    	<jalbum:link rel="sub" href="https:/karelia-trip.cc/Ruskeala/album.rss" title="Ruskeala" thumbnail="https:/karelia-trip.cc/Ruskeala/thumbs/DSC04450.JPG" thumbnailWidth="480" thumbnailHeight="360" />
+    	<jalbum:link rel="sub" href="https:/karelia-trip.cc/Ruskeala%20gap%20caves/album.rss" title="Ruskeala gap caves" thumbnail="https:/karelia-trip.cc/Ruskeala%20gap%20caves/thumbs/DSC04480.JPG" thumbnailWidth="270" thumbnailHeight="360" />
         <item>
             <title>DSC04200</title>
-            <link>http://karelia-trip.cc/slides/DSC04200.JPG</link>
-            <pubDate>Sat, 11 Jan 2020 22:04:34 +0200</pubDate>
+            <link>https:/karelia-trip.cc/slides/DSC04200.JPG</link>
+            <pubDate>Sat, 11 Jan 2020 21:56:07 +0200</pubDate>
             <description>                               </description>
             <media:description type="html">                               </media:description>
-            <media:thumbnail url="http://karelia-trip.cc/thumbs/DSC04200.JPG" width="270" height="360"/>
-            <media:content type="image/jpeg" url="http://karelia-trip.cc/slides/DSC04200.JPG" width="1260" height="1680"/>
+            <media:thumbnail url="https:/karelia-trip.cc/thumbs/DSC04200.JPG" width="270" height="360"/>
+            <media:content type="image/jpeg" url="https:/karelia-trip.cc/slides/DSC04200.JPG" width="1260" height="1680"/>
             <jalbum:exif originalDate="Tue, 24 Jul 2018 11:01:55 +0300" cameraMake="SONY" cameraModel="DSC-HX90"/>
             <guid isPermaLink="false">slides/DSC04200.JPG</guid>
         </item>
         <item>
             <title>DSC04219</title>
-            <link>http://karelia-trip.cc/slides/DSC04219.JPG</link>
-            <pubDate>Sat, 11 Jan 2020 22:04:34 +0200</pubDate>
+            <link>https:/karelia-trip.cc/slides/DSC04219.JPG</link>
+            <pubDate>Sat, 11 Jan 2020 21:56:07 +0200</pubDate>
             <description>                               </description>
             <media:description type="html">                               </media:description>
-            <media:thumbnail url="http://karelia-trip.cc/thumbs/DSC04219.JPG" width="480" height="360"/>
-            <media:content type="image/jpeg" url="http://karelia-trip.cc/slides/DSC04219.JPG" width="1680" height="1260"/>
+            <media:thumbnail url="https:/karelia-trip.cc/thumbs/DSC04219.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="https:/karelia-trip.cc/slides/DSC04219.JPG" width="1680" height="1260"/>
             <jalbum:exif originalDate="Tue, 24 Jul 2018 13:17:40 +0300" cameraMake="SONY" cameraModel="DSC-HX90"/>
             <guid isPermaLink="false">slides/DSC04219.JPG</guid>
         </item>
         <item>
             <title>DSC04262</title>
-            <link>http://karelia-trip.cc/slides/DSC04262.JPG</link>
-            <pubDate>Sat, 11 Jan 2020 22:04:34 +0200</pubDate>
+            <link>https:/karelia-trip.cc/slides/DSC04262.JPG</link>
+            <pubDate>Sat, 11 Jan 2020 21:56:07 +0200</pubDate>
             <description>                               </description>
             <media:description type="html">                               </media:description>
-            <media:thumbnail url="http://karelia-trip.cc/thumbs/DSC04262.JPG" width="480" height="360"/>
-            <media:content type="image/jpeg" url="http://karelia-trip.cc/slides/DSC04262.JPG" width="1680" height="1260"/>
+            <media:thumbnail url="https:/karelia-trip.cc/thumbs/DSC04262.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="https:/karelia-trip.cc/slides/DSC04262.JPG" width="1680" height="1260"/>
             <jalbum:exif originalDate="Tue, 24 Jul 2018 13:59:22 +0300" cameraMake="SONY" cameraModel="DSC-HX90"/>
             <guid isPermaLink="false">slides/DSC04262.JPG</guid>
         </item>
         <item>
             <title>DSC04263</title>
-            <link>http://karelia-trip.cc/slides/DSC04263.JPG</link>
-            <pubDate>Sat, 11 Jan 2020 22:04:34 +0200</pubDate>
+            <link>https:/karelia-trip.cc/slides/DSC04263.JPG</link>
+            <pubDate>Sat, 11 Jan 2020 21:56:07 +0200</pubDate>
             <description>                               </description>
             <media:description type="html">                               </media:description>
-            <media:thumbnail url="http://karelia-trip.cc/thumbs/DSC04263.JPG" width="270" height="360"/>
-            <media:content type="image/jpeg" url="http://karelia-trip.cc/slides/DSC04263.JPG" width="1260" height="1680"/>
+            <media:thumbnail url="https:/karelia-trip.cc/thumbs/DSC04263.JPG" width="270" height="360"/>
+            <media:content type="image/jpeg" url="https:/karelia-trip.cc/slides/DSC04263.JPG" width="1260" height="1680"/>
             <jalbum:exif originalDate="Tue, 24 Jul 2018 13:59:38 +0300" cameraMake="SONY" cameraModel="DSC-HX90"/>
             <guid isPermaLink="false">slides/DSC04263.JPG</guid>
         </item>
         <item>
             <title>DSC04310</title>
-            <link>http://karelia-trip.cc/slides/DSC04310.JPG</link>
-            <pubDate>Sat, 11 Jan 2020 22:04:34 +0200</pubDate>
+            <link>https:/karelia-trip.cc/slides/DSC04310.JPG</link>
+            <pubDate>Sat, 11 Jan 2020 21:56:07 +0200</pubDate>
             <description>                               </description>
             <media:description type="html">                               </media:description>
-            <media:thumbnail url="http://karelia-trip.cc/thumbs/DSC04310.JPG" width="480" height="360"/>
-            <media:content type="image/jpeg" url="http://karelia-trip.cc/slides/DSC04310.JPG" width="1680" height="1260"/>
+            <media:thumbnail url="https:/karelia-trip.cc/thumbs/DSC04310.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="https:/karelia-trip.cc/slides/DSC04310.JPG" width="1680" height="1260"/>
             <jalbum:exif originalDate="Wed, 25 Jul 2018 11:49:39 +0300" cameraMake="SONY" cameraModel="DSC-HX90"/>
             <guid isPermaLink="false">slides/DSC04310.JPG</guid>
         </item>
