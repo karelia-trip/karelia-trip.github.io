@@ -1,5 +1,3 @@
-# karelia-trip.github.io
-
 # KARELIA-TRIP.CC
 
 Boris Melikian Expeditions Collection.
