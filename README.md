@@ -12,8 +12,11 @@ Fauna, Flora, Girvas, Kivach, Kizi, Moon, Museum, Oreshek, Ruskeala, Ruskeala ga
 # Release
 
 Published to:
+
 https://karelia-trip.cc/
+
 https://karelia-trip.github.io/
+
 
 # License
 
